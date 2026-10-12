@@ -1,0 +1,5 @@
+
+.placeholder-theme::placeholder {
+  color: #8b8b99;
+  opacity: 1;
+}
