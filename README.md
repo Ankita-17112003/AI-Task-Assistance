@@ -42,7 +42,7 @@ AI-Text-Assistant/
 └── README.md
 ```
 
-*Note: Adjust the folder structure if your actual project is different.*
+_Note: Adjust the folder structure if your actual project is different._
 
 ## Prerequisites
 
@@ -136,14 +136,3 @@ Open the local URL displayed by Vite in your terminal.
 4. Ollama generates a response.
 5. The backend saves the conversation in MongoDB.
 6. The response is displayed in the chat interface.
-
-## Future Improvements
-
-- User authentication and personal chat histories
-- Streaming AI responses
-- Support for multiple AI models
-- Deployment with a production-ready AI API
-
-## Author
-
-Developed as a full-stack AI project to explore local language models and AI integration with the MERN stack.
