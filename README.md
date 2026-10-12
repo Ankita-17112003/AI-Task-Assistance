@@ -139,4 +139,8 @@ Open the local URL displayed by Vite in your terminal.
 
 ## Screenshots
 
-![AI Text Assistant Dashboard](screenshots/chat-dashboard.png)
+![AI Text Assistant Dashboard](chat-dashboard.png)
+
+![AI Text Assistant Dashboard (dark-mode) ](dark-mode.png)
+
+![AI Text Assistant Dashboard (light-mode) ](light-mode.png)
