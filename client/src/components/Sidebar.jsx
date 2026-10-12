@@ -186,18 +186,7 @@ function Sidebar({
           >
             Ollama · Llama 3.2
           </div>
-          <div
-            className="small"
-            style={{
-              color: isDark ? "#a1a1b0" : "#6c757d",
-              background: isDark ? "#1a1a22" : "#f1f3f8",
-              border: `1px solid ${
-                isDark ? "rgba(255,255,255,0.1)" : "rgba(0,0,0,0.12)"
-              }`,
-            }}
-          >
-            Running locally
-          </div>
+         
         </div>
       </div>
     </aside>

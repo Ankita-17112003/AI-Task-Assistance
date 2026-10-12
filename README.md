@@ -136,3 +136,7 @@ Open the local URL displayed by Vite in your terminal.
 4. Ollama generates a response.
 5. The backend saves the conversation in MongoDB.
 6. The response is displayed in the chat interface.
+
+## Screenshots
+
+![AI Text Assistant Dashboard](screenshots/chat-dashboard.png)
